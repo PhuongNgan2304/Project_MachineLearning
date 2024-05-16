@@ -40,3 +40,7 @@ The dataset is partitioned into training and testing sets using a suitable metho
 | LGBM                  |   <img src="https://github.com/PhuongNgan2304/Project_MachineLearning/assets/68158536/d39e1be9-8df2-4937-af67-c3d4ce7d826b" alt="LGBM" width="90px"> |
 | Kaggle Notebook for data traning step | <a href="https://www.kaggle.com/code/tinthng/lgbm-learning"><img src="https://kaggle.com/static/images/open-in-kaggle.svg" alt="Open In Kaggle"></a> |
 ## <div align="center">Contribute</div>
+| Name     | Contribute                                                                                   |
+|-----------------------|----------------------------------------------------------------------------------------|
+| [Thông Nguyễn](https://github.com/ThongNguyenDT) | <a href="https://www.kaggle.com/code/tinthng/lgbm-learning"><img src="https://kaggle.com/static/images/open-in-kaggle.svg" alt="Training code"></a> |
+| [Phương Ngân](https://github.com/PhuongNgan2304) | <a href="https://github.com/PhuongNgan2304/Project_MachineLearning"><img src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png" alt="Data Analysis" width="20px"></a> |
