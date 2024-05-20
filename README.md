@@ -2,6 +2,15 @@
   <img src="https://github.com/PhuongNgan2304/Project_MachineLearning/assets/68158536/aa93f935-1d88-4f98-a076-1573fd75aa7d" alt="Banner"  height="200px" >
 </div>
 
+### 📢 Notebook Update Notification
+
+#### 🚀 New Features and Improvements
+
+We are excited to announce a new update to our notebook, bringing you enhanced capabilities and more robust performance. Below are the key updates included in this release:
+
+##### 🆕 New AI Model
+##### 📊 Added Evaluation Metrics
+
 <h1 align="center">Predicting Taxi Fare with LGBM Algorithm</h1>
 
 <h2 align="center">Overview</h2>
